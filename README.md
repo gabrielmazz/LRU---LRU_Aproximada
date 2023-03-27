@@ -1,7 +1,7 @@
 # Implementação da LRU e LRU Aproximada
 
 ### Trabalho de Sistemas Operacionais
-- Colaboradores: Gabriel Mazzuco, Gabriel Norato, Rodrigo Rocha
+>Colaboradores: *Gabriel Mazzuco* ([Github Profile](https://github.com/gabrielmazz)), *Rodrigo Rocha* ([Github Profile](https://github.com/Rodrigo2603)) e *Gabriel Norato* ([Github Profile](https://github.com/iMaGiNaTrOn))
 - 3ª ano de Ciências da Computação
 ---
 ### Introdução
