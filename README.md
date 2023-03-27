@@ -1,5 +1,9 @@
 # Implementação da LRU e LRU Aproximada
 
+### Trabalho de Sistemas Operacionais
+- Colaboradores: Gabriel Mazzuco, Gabriel Norato, Rodrigo Rocha
+- 3ª ano de Ciências da Computação
+---
 ### Introdução
 
 O código de implementação dos algoritmos de paginação LRU e LRU Aproximada, foram desenvolvidos em Python. Os algoritmos utilizam como base a leitura de arquivos que contém informações de páginas em formato hexadecimal, e as transforma em formato binário. O código foi dividido em três arquivos distintos, sendo um para as funções principais `(funcoes.py)`, outro para a leitura dos arquivos `(leitura.py)` e o arquivo de execução do algoritmo `(lru.py / lru_aproximada.py)`.
